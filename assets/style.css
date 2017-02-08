@@ -1,0 +1,93 @@
+
+
+body {
+
+	background-image: url("images/background-1524540_1280.jpg");
+}
+
+header {
+
+	background-color: pink;
+	color: white;
+	font-family: cursive;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
+
+div {
+	
+	text-align: center;
+	
+}
+
+p {
+	
+	font-family: cursive;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+}
+
+h5 {
+	
+	
+	font-family: cursive;
+	font-weight: bold;
+	color: #f442a1;
+
+}
+
+.randomNumber {
+	
+	background-color: pink;
+	display: block;
+	width: 100px;
+	height: 100px;
+	box-sizing: border-box;
+	margin: auto;
+
+
+}
+
+.winLose {
+
+	background-color: #21dbc3;
+	display: inline-block;
+	box-sizing: border-box;
+	width: 100px;
+	height: 100px;
+	margin-left: 350px;
+	margin-right: 5px;
+
+
+}
+
+.score {
+
+	background-color: #ebfbce;
+	display: inline-block;
+	box-sizing: border-box;
+	width: 100px;
+	height: 100px;
+
+
+		
+}
+
+.crystal {
+	
+	height: 130px;
+	width: 130px;
+}
+
+
+
+
+
+
+
+
+
+
+
